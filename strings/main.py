@@ -1,5 +1,6 @@
 # Do not modify these lines
 __winc_id__ = '71dd124b4a6e4d268f5973db521394ee'
+__winc_id__ = '71dd124b4a6e4d268f5973db521394ee'
 __human_name__ = 'strings'
 
 # Add your code after this line
@@ -33,5 +34,5 @@ chant0 = (first_name + '!' + ' ') * len(first_name)
 chant = chant0.strip ( )
 print(chant)
 # 6 good_chant
-good_chant = True 
-chant == "jan! + jan! + jan! + jan! + jan!"
+good_chant = True
+chant ==  "jan! + jan! + jan! + jan! + jan!"
